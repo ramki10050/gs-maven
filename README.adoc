@@ -13,6 +13,8 @@ This guide walks you through using Maven to build a simple Java project.
 #HI Thumati
 #This is using Pool SCM
 #Test Poll2
+#test Poll 3
+$Poll test4
 == What you'll build
 
 You'll create an application that provides the time of day and then build it with Maven.
