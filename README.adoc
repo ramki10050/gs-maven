@@ -16,6 +16,7 @@ This guide walks you through using Maven to build a simple Java project.
 #test Poll 3
 #Poll test4
 #Poll test 5
+#poll test 6
 == What you'll build
 
 You'll create an application that provides the time of day and then build it with Maven.
