@@ -20,13 +20,7 @@
         </dependency>
     </dependencies>
 	
-	<distributionManagement>
-   <repository>
-      <id>releases</id>
-        <url>http://localhost:8081/nexus/content/repositories/releases/</url>
-   </repository>
-</distributionManagement>
-<distributionManagement>
+    <distributionManagement>
         <repository>
             <id>snapshots</id>
             <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
